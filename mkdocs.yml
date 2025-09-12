@@ -1,4 +1,23 @@
-site_name: My site
-site_url: https://mydomain.org/mysite
+# 1. 保留并修改原有配置
+site_name: 六水合铬离子  # 改成你的网站名
+site_url: https://loshgreenz.github.io  # 改成你的实际URL
+
+# 2. 保留主题配置
 theme:
-  name: material
+  name: material  # 核心主题，保留不动
+  # 未来可以在这里添加更多主题定制，比如：
+  # palette:
+  #   primary: 'indigo'
+
+# 3. 【新增】最重要的部分：定义网站导航栏菜单！
+nav:
+  - Home: index.md  # 第一个菜单项，链接到首页
+  - 博客:  # 第二个菜单项是一个下拉菜单，名为“博客”
+      - '我的第一篇文章': my-first-post.md  # 下拉菜单里的第一篇文章
+      # 未来你可以继续在这里添加更多文章
+      # - '第二篇文章': second-post.md
+  - 关于我: about.md  # 第三个菜单项，链接到一个“关于我”的页面
+
+# 4. 【可选但推荐】添加一些插件来增强功能
+plugins:
+  - search  # 启用搜索功能，Material主题默认自带，写上更保险
