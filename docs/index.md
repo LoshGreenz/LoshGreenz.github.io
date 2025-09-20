@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# 你好
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是六水合铬离子的个人网站 [loshgreenz.github.io](https://loshgreenz.github.io/)
 
-## Commands
+## 浏览方式
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 通过主题和目录浏览文章。
+    * 电脑端：在上方标签栏选择主题，在左侧目录选择文章。
+    * 移动端：点击左上角图标选择主题和文章。
+* 在上方搜索关键词查找文章。
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 关于网站
+
+最近更新于 ` 2025年9月20日 `
+
+## 目前的内容
+
+日本旅行，攻略与记录（建网站的主要原因，QQ空间图片和文字分离，阅读体验不太好）
+
+## 计划更新
+十全街美食指南
+美丽苏大
+
+> 还有暑假刚学了前端三件套，有空想把页面整得好看些！
+
+

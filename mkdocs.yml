@@ -17,8 +17,8 @@ nav:
       # 未来你可以继续在这里添加更多文章
       # - '第二篇文章': second-post.md
   - 日本旅行:  # 第二个菜单项是一个下拉菜单，名为“博客”
-      - '攻略篇': my-first-post.md
-      - '记录篇': my-first-post.md 
+      - '攻略篇': strategy.md
+      - '记录篇': reminiscence.md 
   
   - 关于我: about.md  # 第三个菜单项，链接到一个“关于我”的页面
 
