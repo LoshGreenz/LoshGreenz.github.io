@@ -5,9 +5,10 @@ site_url: https://loshgreenz.github.io  # 改成你的实际URL
 # 2. 保留主题配置
 theme:
   name: material  # 核心主题，保留不动
+  language: zh
   # 未来可以在这里添加更多主题定制，比如：
   # palette:
-  #   primary: 'indigo'
+  #   primary: 'indigo' 
 
 # 3. 【新增】最重要的部分：定义网站导航栏菜单！
 nav:
@@ -17,8 +18,11 @@ nav:
       # 未来你可以继续在这里添加更多文章
       # - '第二篇文章': second-post.md
   - 日本旅行:  # 第二个菜单项是一个下拉菜单，名为“博客”
-      - '攻略篇': strategy.md
-      - '记录篇': reminiscence.md 
+      - 攻略篇: strategy.md
+      - 记录篇: 
+          - 去日本的路上: reminiscene/8_25_Flight.md
+          - 大阪: reminiscene/8_26_Osaka.md
+          - 京都: reminiscene/8_27_Kyoto.md
   
   - 关于我: about.md  # 第三个菜单项，链接到一个“关于我”的页面
 
