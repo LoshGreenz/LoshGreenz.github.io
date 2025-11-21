@@ -13,7 +13,7 @@
 /* 头部导航栏渐变 - 粉色为主，绿色为辅 */
 .md-header {
   /* background: linear-gradient(135deg, #ff66aa 0%, #33dd88 100%); */
-  background: linear-gradient(135deg, #ff66aa 0%, #fca7ce 80%, #28e6e6 90%, #33dd88 100%);
+  background: linear-gradient(135deg, #ff66aa 0%, #fca7ce 70%, #28e6e6 80%, #33dd88 100%);
 }
 
 /* 标签页激活状态使用绿色 */
