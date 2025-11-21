@@ -1,0 +1,71 @@
+/* 粉绿渐变主色调 - 对调颜色地位并降低亮度 */
+:root {
+  --md-primary-fg-color: #ff66aa;
+  /* 主色改为粉色 */
+  --md-primary-fg-color--light: #ff99cc;
+  /* 亮粉色 */
+  --md-primary-fg-color--dark: #e0559b;
+  /* 暗粉色 */
+  --md-accent-fg-color: #33dd88;
+  /* 强调色改为绿色 */
+}
+
+/* 头部导航栏渐变 - 粉色为主，绿色为辅 */
+.md-header {
+  /* background: linear-gradient(135deg, #ff66aa 0%, #33dd88 100%); */
+  background: linear-gradient(135deg, #ff66aa 0%, #fca7ce 80%, #28e6e6 90%, #33dd88 100%);
+}
+
+/* 标签页激活状态使用绿色 */
+.md-tabs__link--active {
+  color: #fff;
+  border-bottom: 2px solid #33dd88;
+}
+
+/* 按钮渐变 - 粉色到绿色 */
+.md-button {
+  background: linear-gradient(135deg, #ff66aa 0%, #33dd88 50%, #33dd88 100%);
+  color: white;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+.md-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 102, 170, 0.4);
+  background: linear-gradient(135deg, #ff88bb 0%, #44ee99 50%, #00dd77 100%);
+}
+
+/* 链接颜色使用绿色系 */
+.md-typeset a {
+  color: #00aa55;
+}
+
+.md-typeset a:hover {
+  color: #ff66aa;
+  text-decoration: underline;
+}
+
+/* 代码块的渐变边框 - 粉色到绿色 */
+.highlight pre code {
+  border-left: 4px solid;
+  border-image: linear-gradient(to bottom, #ff66aa, #33dd88, #33dd88) 1;
+}
+
+/* 侧边栏导航激活状态使用绿色 */
+.md-nav__link--active {
+  color: #33dd88;
+  border-left: 3px solid #ff66aa;
+}
+
+/* 表格标题行使用浅粉色背景 */
+.md-typeset table:not([class]) th {
+  background-color: rgba(255, 102, 170, 0.1);
+}
+
+/* 引用块使用浅绿色边框 */
+.md-typeset blockquote {
+  border-left: 4px solid #33dd88;
+  background-color: rgba(0, 204, 106, 0.05);
+}
