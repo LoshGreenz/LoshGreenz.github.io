@@ -21,14 +21,14 @@ nav:
       # 未来你可以继续在这里添加更多文章
       # - '第二篇文章': second-post.md
   - 日本旅行:  # 第二个菜单项是一个下拉菜单，名为“博客”
-      - 攻略篇: strategy.md
       - 记录篇: 
           - 去日本的路上: reminiscene/8_25_Flight.md
           - 大阪: reminiscene/8_26_Osaka.md
           - 京都: reminiscene/8_27_Kyoto.md
           - 奈良&宇治: reminiscene/8_28_Nara.md
           - 东京: reminiscene/8_29_Tokyo.md
-          # - 川崎: reminiscene/8_27_Kyoto.md          
+          # - 川崎: reminiscene/8_27_Kyoto.md  
+      - 攻略篇: strategy.md        
   
   - 关于我: about.md  # 第三个菜单项，链接到一个“关于我”的页面
 
