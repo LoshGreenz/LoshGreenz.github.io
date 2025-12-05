@@ -504,7 +504,48 @@
             <div class="md-content" data-md-component="content">
               <article class="md-content__inner md-typeset">
                 
-  <h1>404 - Not found</h1>
+<style>
+  .error-container {
+    text-align: center;
+    padding: 4rem 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .error-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: var(--md-default-fg-color);
+  }
+
+  .error-image {
+    max-width: 600px;
+    width: 100%;
+    margin: 2rem auto;
+    display: block;
+    border-radius: 8px;
+  }
+
+  .home-link {
+    color: #cde07d;
+    font-weight: 500;
+  }
+
+  .home-link:hover {
+    color: #d6697f;
+    text-decoration: underline;
+  }
+</style>
+
+<div class="error-container">
+  <h1 class="error-title">404</h1>
+  <p><strong>哎呀！页面似乎迷路了。</strong></p>
+  <p>您要查找的页面还没写好~(￣▽￣)~*</p>
+
+  <!-- 关键修正：使用正确的网站根目录绝对路径 -->
+  <img class="error-image" src="/reminiscene/img/404.png" alt="404 Not Found">
+  <a class="home-link" href="/">返回首页</a>
+</div>
 
               </article>
             </div>

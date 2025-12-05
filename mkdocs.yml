@@ -6,6 +6,7 @@ site_url: https://LoshGreenz.github.io
 theme:
   name: material  # 核心主题，保留不动
   language: zh
+  custom_dir: overrides
   # 未来可以在这里添加更多主题定制，比如：
   # palette:
   #   primary: 'indigo' 
