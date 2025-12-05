@@ -1,0 +1,126 @@
+:root {
+  --md-primary-fg-color: #cde07d;
+  /* 主绿色 */
+  --md-primary-fg-color--light: #d9e89a;
+  /* 柔和的浅绿色 */
+  --md-primary-fg-color--dark: #b8d05a;
+  /* 深绿色 */
+  --md-accent-fg-color: #e67e94;
+  /* 点缀粉色 */
+  --md-accent-fg-color--dark: #d6697f;
+  /* 深粉色 */
+}
+
+/* 头部导航栏 - 保持渐变但调整颜色 */
+.md-header {
+  background: linear-gradient(90deg, #fc92a6 50%, #e5f39f);
+}
+
+/* 正文文本颜色保持黑色，确保可读性 */
+.md-typeset {
+  color: #333333;
+}
+
+/* 小标题和次要文本使用深灰色 */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #444444;
+}
+
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #555555;
+}
+
+/* 标签页激活状态 - 使用柔和的绿色 */
+.md-tabs__link--active {
+  color: #444444;
+  border-bottom: 3px solid #cde07d;
+  font-weight: 600;
+}
+
+/* 
+
+.md-button {
+  background: linear-gradient(90deg, #e67e94 50%, #cde07d);
+  color: #444444;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  border: none;
+}
+
+.md-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(230, 126, 148, 0.3);
+  background: linear-gradient(90deg, #ea8fa3 50%, #d6e88d);
+  color: #333333;
+}
+
+*/
+
+/* 链接颜色 - 使用调整后的粉色 */
+.md-typeset a {
+  color: #cde07d;
+  font-weight: 500;
+}
+
+.md-typeset a:hover {
+  color: #d6697f;
+  text-decoration: underline;
+}
+
+/* 侧边栏导航激活状态 */
+.md-nav__link--active {
+  background-color: rgba(205, 224, 125, 0.15);
+  color: #444444;
+  border-left: 4px solid #cde07d;
+}
+
+/* 代码块 - 调整边框颜色 */
+.highlight pre code {
+  border-left: 4px solid;
+  border-image: linear-gradient(to bottom, #e67e94, #cde07d) 1;
+  background-color: rgba(205, 224, 125, 0.03);
+}
+
+/* 表格标题行 */
+.md-typeset table:not([class]) th {
+  background: linear-gradient(90deg, #e67e94 20%, #cde07d 100%);
+  color: #444444;
+  font-weight: 600;
+}
+
+/* 表格斑马纹 */
+.md-typeset table:not([class]) tr:nth-child(2n) {
+  background-color: rgba(205, 224, 125, 0.08);
+}
+
+/* 引用块 */
+.md-typeset blockquote {
+  border-left: 4px solid #e67e94;
+  background-color: rgba(205, 224, 125, 0.1);
+  color: #555555;
+}
+
+/* 搜索框 */
+.md-search__input:focus {
+  border-color: #cde07d;
+  box-shadow: 0 0 0 2px rgba(205, 224, 125, 0.2);
+}
+
+/* 选择文本的背景色 */
+::selection {
+  background-color: #fdd7db
+}
+
+::-moz-selection {
+  background-color: rgba(205, 224, 125, 0.25);
+}
+
+/* 页脚链接 */
+.md-footer a:hover {
+  color: #cde07d;
+}
