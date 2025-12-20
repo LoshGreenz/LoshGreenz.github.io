@@ -169,10 +169,19 @@ GIGO大楼居然刚好昨天关门，好像之前会挂原神的广告牌
 吃完了，发现有一架钢琴，犹豫了一会儿还是上去弹了，是暑假前答应QQ空间以前的同学要弹琴给他们听，练的《七里香》
 在公共场合弹，还是有些紧张的，腿不停地抖，手也有些不受控制，可以说弹得稀烂，还没练熟。只能说勇气可嘉
 
+测试视频
 
-
-
-
+<div style="position: relative; padding: 30% 45%; margin: 20px 0;">
+    <iframe 
+        style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"
+        src="https://player.bilibili.com/player.html?isOutside=true&aid=115532573443498&bvid=BV1x7k2B1EF8&cid=33928052940&p=1"
+        scrolling="no"
+        border="0"
+        frameborder="no"
+        framespacing="0"
+        allowfullscreen="true">
+    </iframe>
+</div>
 如果想听完成度较高的版本，请看我2025年10月12日的QQ动态，配置了丰富的音色，只有少量的错音和衔接问题，不过录制的声音似乎太小，最糟糕的是那个视频的最后一段消失了。
 并不完整的原因是U盘拷贝的过程中居然文件有损坏，就是最后一小段突然被截断，还是第一次遇到这种情况，网上试了好多方法都没修好文件。而且我没有用复制而是移动，导致没有备份。一定要留有备份，我喜欢移动不复制也是因为旅游中拍的照片太多，还残留一点存储焦虑
 
