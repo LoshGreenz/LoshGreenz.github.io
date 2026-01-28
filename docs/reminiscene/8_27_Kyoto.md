@@ -14,11 +14,11 @@ tags:
 
 #### 早晨
 按照计划5点多起来了，天刚蒙蒙亮
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221192928230.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221192928230.jpg)
 
 吸取昨天的经验，今天只带了一个小包，正好只能塞钱包充电宝和一本漫画书。再拿一个大袋子用来装喝完的饮料瓶和杂七杂八的东西，路上几乎见不到垃圾桶，很多时候要提着一大袋空瓶子走一天。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221194945721.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221194945721.jpg)
 
 喝口洗脚水，出发啦！
 ![Screenshot](https://assets-proxy.2741399140.workers.dev/picgo/20251220184811588.jpg
