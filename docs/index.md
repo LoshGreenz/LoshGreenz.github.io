@@ -1,6 +1,6 @@
 # 你好
 
-这里是六水合铬离子的个人网站 [loshgreenz.github.io](https://loshgreenz.github.io/)
+这里是六水合铬离子的个人网站 [loshgreenz.cn](https://loshgreenz.cn/)
 
 ## 浏览方式
 
@@ -23,6 +23,6 @@
 十全街美食指南
 美丽苏大
 
-> 还有之前抽空学了一点前端三件套，有空想把页面整得好看些！
+> 为了让网站通过备案买了一个云服务器，可能之后会添加评论系统
 
 
