@@ -1,12 +1,14 @@
 # 1. 保留并修改原有配置
 site_name: 六水合铬离子  # 改成你的网站名
 site_url: https://www.loshgreenz.cn/
+site_dir: site
 
 # 2. 保留主题配置
 theme:
   name: material  # 核心主题，保留不动
   language: zh
   custom_dir: overrides
+  favicon: img/favicon.ico
   # 未来可以在这里添加更多主题定制，比如：
   # palette:
   #   primary: 'indigo' 
