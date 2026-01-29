@@ -5,10 +5,10 @@ site_dir: site
 
 # 2. 保留主题配置
 theme:
-  name: material  # 核心主题，保留不动
+  name: material  
   language: zh
   custom_dir: overrides
-  favicon: img/favicon.ico
+  favicon: image/favicon.ico
   # 未来可以在这里添加更多主题定制，比如：
   # palette:
   #   primary: 'indigo' 
