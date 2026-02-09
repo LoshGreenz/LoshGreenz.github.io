@@ -13,170 +13,170 @@ tags:
 
 #### 早晨
 清早出门，很安静，窄小但是干净的道路
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050024621.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050024621.jpg)
 
 
 
 有好多政治海报，又是共产党又是自民党的，不太懂喵
 旁边还有一个电话亭
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050021047.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050021047.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050022798.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050022798.jpg)
 
 
 就走了几步，既有印度餐又有泰餐
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050044580.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050044580.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050047150.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050047150.jpg)
 
 
 先去梅田车站寄存行李
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050226030.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050226030.jpg)
 
 
 
 在711买早餐，排队会根据付款方式分两队
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050213253.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050213253.jpg)
 
 一开始不知道免税是要达到一定金额的，还以为啥都免税，傻傻地掏护照。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050227668.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050227668.jpg)
 
 
 
 
 
 赶上早高峰了，排队上车的上班族
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050251207.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050251207.jpg)
 
 
 
 日本路上不能吃东西，但是清早没什么人，而且就在全家附近，就偷偷吃早饭吧
 这个可乐饼我当成肉饼了，还以为和国内一样的是猪排，结果主要是土豆，口感很软碎
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050502827.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050502827.jpg)
 
 
 
 朋友买了一个牛奶补丁，非常甜又有奶香味，很好吃
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050512739.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050512739.jpg)
 
 
 通天阁和附近的新世界商业街还没开门，只能先走去四天王寺，第一天精力比较充沛，一点都不心疼脚，后面几天就难受了QAQ
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050606959.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050606959.jpg)
 
 
 路过的工地和警察局
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050735411.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050735411.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050749234.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050749234.jpg)
 
 走到一个拐角处，发现一个男人躲在角落里偷看外面，
 走出来发现是在看两个小孩送小狗进宠物店，大概是不太放心的家长吧，治愈小故事
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050800563.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050800563.jpg)
 
 路过了一处墓地，和住宅区紧紧靠在一起，日本人对于墓地是不避讳的
 按照神道的生死观，人死后会变成保佑家庭的守护神
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050809000.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050809000.jpg)
 
 
 #### 四天王寺
 大阪周游券的内容，门口婆婆一直在说"QR Code"
 但是我俩一直没听出来，幸好提前准备了翻译软件，扫码折腾了一会儿进去了
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050920011.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050920011.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050914464.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050914464.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221050918240.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221050918240.jpg)
 
 碎石地的纹路是人一行一行划出来的，工匠精神这一块
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051111674.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051111674.jpg)
 
 好多佛教的东西，室内的壁画看不太懂又不给拍，而且很小，感觉不是特别有意思，里面的空调挺凉快。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051211455.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051211455.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051327604.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051327604.jpg)
 
 离开四天王寺，前往通天阁
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051300979.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051300979.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051302155.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051302155.jpg)
 
 #### 通天阁
 使用周游券可以滑滑梯或者展望台，我有点幽闭恐惧症，选择了展望台。同学选的是滑滑梯，我看从坐上滑梯滑下来10秒就结束了，他都滑下来了，我还没排到上去的电梯...电梯是分只能上行或下行的
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051342435.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051332160.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051342435.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051332160.jpg)
 
 
 
 
 排队排队排队了好久，坐电梯后会到类似于游客中心的地方，有很多通天阁的介绍，还有这个肌肉发达的动漫角色，叫什么“筋肉人”
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051421936.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051421936.jpg)
 
 
 
 再排一次上电梯的队。电梯向上到观景台时，有个小电视会放一段激昂的音乐，通天阁拔地而起的画面，和慢慢爬升的电梯对应，很喜感。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051441828.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051441828.jpg)
 
 
 到观景台了，可以远眺大阪的风景，密密麻麻，高高低低的日式公寓，五颜六色的而且朝向不统一，窄小的道路也被遮起来看不见，给人一种“挤”在一起的感觉。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051652301.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051652301.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051717721.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051737691.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051717721.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051737691.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051720552.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051720552.jpg)
 
 有丑萌的Billken，是通天阁的吉祥物
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051752542.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051752542.jpg)
 
 
 因为不想排队坐下去的电梯，所以狂爬几十层楼梯下去，早知道还是排队坐电梯了！累死我了
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051838299.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051838299.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221051828660.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221051828660.jpg)
 
 走了一上午，必须要猛猛干饭！吉野家开吃！
 我点的是牛丼饭加牛肉，吃起来的味道和学校门口万科的食其家简直一模一样！但是炸鸡非常的好吃，外脆里嫩，直冒油水，虽然只有一块，但是回味无穷。
 点菜用的是一个小机器，每个位置上都有，还有充电的地方，很适合旅行中途补充能量。水是冰水，不太习惯，幸好是夏天
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052105824.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052105824.jpg)
 
 
 
 #### 日本桥
 
 信号灯上有一个按钮，似乎是给行人用的，不过按了好像也没什么用
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052049911.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052049911.jpg)
 
 路过一家电子产品店
 日本键盘看不懂喵
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052217067.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052425671.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052217067.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052425671.jpg)
 手机平板啥的，价格不如咸鱼。不过与其叫二手店，不如叫古董店，甚至有ipad4
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052227169.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052416919.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052227169.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052416919.jpg)
 
 mandarake
 中古店，也就是二手店，价格比较实惠
 每层楼卖分别结账，也就是说不同层买的东西不能一起凑免税
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221053129342.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221053129342.jpg)
 
 
 我买了6本火影漫画，是最喜欢的仙鸣VS佩恩的部分，默默修炼归来拯救全村太帅了 ~~虽然最后还是没打过开挂了~~
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221052604877.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221052604877.jpg)
 
 还有一个孤独摇滚的剧场版BD，因为没有看剧场版，价格比较实惠就买了，结果回去之后发现只有日语字幕，已经成为吃灰的日语学习资料了QAQ（貌似现在b站上已经可以观看了）
 这个比较贵，达到了免税金额，出示一下护照就可以免税了
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221193017800.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221193017800.jpg)
 
 
 
@@ -189,50 +189,50 @@ mandarake
 门口好热闹，全是二次元人物，还到处放着叽叽喳喳的美少女声音，热闹得甚至有些聒噪了。
 一楼卖的是游戏光盘，ps5,ps4的都有，价格依然是不如闲鱼，比较震惊的是居然有几货架ps2的光盘，还有国内见不到的3ds的卡带，这儿哪里是商店，完全是博物馆，终于有机会在线下看到好多经典游戏的实体。
 放的音乐是新番《小城日常》的OP，门口是炎炎的夏日，心情很愉快。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221053000990.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221053000990.jpg)
 
 
 剩下的和mandarake差不多，每层楼分别卖BD，手办，好康的，最后没买什么。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221053514762.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221053514762.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221053545294.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221053545294.jpg)
 
 
 很多商店门口都有各种IP的扭蛋机，几乎不重样。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221053755620.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221053755620.jpg)
 
 初见原神的这些小人只是觉得挺好看的，旅行中偶尔感受到这游戏的海外热度，越来越好奇最后开学入坑了。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221054851205.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221054851205.jpg)
 
 
 AveMujica的扭蛋机被抽空了QAQ
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221054832442.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221054832442.jpg)
 朋友一发入魂抽到了喜欢的井芹仁菜(或者叫nina),我还没找到感兴趣的扭蛋机
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221054846232.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221054846232.jpg)
 
 终于来到了日本桥的animate大楼!
  ~~可以去melonbooks买好康的了~~
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055029912.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055029912.jpg)
 
 
 几位“店主”的合影
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055049985.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055049985.jpg)
 
 
 好像有EVA主题活动
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055201546.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055219927.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055201546.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055219927.jpg)
 
 米游的可怕影响力，不过产地都是中国，不如回国买，价格实惠一些
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055326413.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055326413.jpg)
 
 
 在animate买了四本败犬女主的漫画，然后买了两本封面好看的小说
 ~~反正买多了也是日语学习资料~~
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221055252918.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221055252918.jpg)
 
 
 > 事实证明买漫画是很正确的决定，漫画很小巧，可以塞包里，等车坐车的时候都可以看
@@ -275,13 +275,13 @@ o(TヘTo)
 #### 大阪城公园
 
 在日本桥逛太久了，买了一大堆东西放在书包里，我还自以为是地带着电脑走了一天，脚和膝盖都很痛。坐在公园外面歇了歇，欣赏了一下刚买的漫画。( ͡• ͜ʖ ͡• )
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221181706795.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221181706795.jpg)
 
 天守阁四点半就不允许进入了，一定要在谷歌地图上提前看好，我在地图上选的是大阪城公园24小时开放，没选对，就只在天守阁外面拍了照片。还有一个外国人跟关门的人喊“bro”想进去，没人理他。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221181900745.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221181909013.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221181900745.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221181909013.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221181820342.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221181820342.jpg)
 
 《刺客信条·影》游戏里的天守阁是黑色的。天守阁的白色是德川家康消灭丰臣家族后刷的
 
@@ -290,7 +290,7 @@ o(TヘTo)
 
 
 在这里买到了最喜欢的饮料！这个青提汽水超好喝！日本到处都是贩卖机，里面的饮料全是冰的，走了整整一天，在燥热的夏天里，满头大汗的时候喝上一瓶冰镇汽水真是太爽啦！
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221181947574.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221181947574.jpg)
 
 
 我正在微信支付买饮料的时候，一名外国小哥在投现金，结果饮料掉下来被我拿走了，我们用英语向很疑惑的他解释。
@@ -298,11 +298,11 @@ o(TヘTo)
 
 总之就是很有趣！
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221182113134.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221182113134.jpg)
 
 接下来准备去道顿堀，想多体验电车线，便去了JR大阪城公园站坐环状线，结果遇上了第一个危机——JR关西周游券怎么用。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183139136.jpg)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183247026.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183139136.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183247026.jpg)
 JR不是普通的地铁站，不能用大阪周游券，需要用之前买好的关西周游券。为了用上这张券，我不得不在手机软件Klook上跟套娃般的英文网页对线，注册JR账号时，切换应用看个验证码的功夫，页面就白费了。
 眼看到心斋桥时商店可能都要关门了，再加上走了一天腿酸脚疼，有点着急。直接掏出背了一天的电脑，才在电脑上完成了注册，这电脑也算没白背。
 
@@ -312,72 +312,72 @@ JR不是普通的地铁站，不能用大阪周游券，需要用之前买好的
 #### 道顿堀
 
 到道顿堀已经七点了，得先赶在很多店关门前去吃晚饭
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183516438.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183516438.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183522002.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183522002.jpg)
 
 
 
 
 跟着朋友去了一家鳗鱼饭，他说这个是从b站上看的，比较好吃，进去之后两人直接傻眼了，起步2000日元的饭，最便宜的也要一百多人民币，俩人又不好意思直接走，只好吃了在日本最奢侈的一顿，下面这个就是一人190人民币的饭。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183505497.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183505497.jpg)
 
 
 
 感觉被坑得好惨，按理说很多商店是会在门口放价目表的，避免尴尬。这家在谷歌地图上的评分也不太好，后来才知道同学是记错了。一定要用好谷歌地图！上面还会显示人均消费，避免踩坑！o(￣┰￣*)ゞ
 
 一般的店门口都会有价目表的
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183741030.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183741030.jpg)
 
 
 
 道顿堀游船也是周游券的内容，这个还是蛮好玩的，算是比较典型的游览项目了。道顿川两岸挂满了灯笼，大楼上一排排张扬有趣的广告牌，一片繁华热闹的景象。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183915014.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183915014.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183933492.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183933492.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221194811172.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221194811172.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184334437.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184334437.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221183917561.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221183917561.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184005038.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184005038.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184215259.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184215259.jpg)
 
 #### 摩天轮
 然后是坐车到梅田车站，想去梅田蓝天大厦的空中花园，到了才发现周游券只是打折，上去的话还需要大几十的门票，于是两人研究了一下发现附近有个摩天轮可以用券免费玩，正好在车站的另一个方向，于是又拖着疲惫的身躯原路返回。是的，我的电脑和漫画书还背着。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184408904.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184408904.jpg)
 
 
 看到路上灯火通明的写字楼，想到日本人不是不加班吗？都是什么样的人在里面？之后才才了解到，作为景观的写字楼还有公寓楼的灯都是不关的。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184541610.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184541610.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184633086.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184633086.jpg)
 
 摩天轮算是玩得最开心的项目了，之前在国内好像都没坐过。这个摩天轮最好玩的是可以连蓝牙放音乐，于是我们放了柯南的主题曲，还有plastic love 和真夜中のドア。音乐一响，氛围感立刻就有了，俯瞰大阪繁华的夜景，真有身处繁华大都市的感觉！
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221194834081.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221194834081.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221185819065.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221185819065.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221185930372.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221185930372.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221184906419.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221184906419.jpg)
 
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221185024910.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221185024910.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190038282.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190038282.jpg)
 
 
 
@@ -387,19 +387,19 @@ JR不是普通的地铁站，不能用大阪周游券，需要用之前买好的
 #### 去京都
 之后，在梅田乘JR去京都，换乘乌丸线地铁到旅馆。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190141586.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190141586.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190326530.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190326530.jpg)
 
 地铁站买了一个乳酸菌饮料，酸酸甜甜的挺好喝，翻过来发现包装是美少女泡脚，还得是日本人会整活
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190203606.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190203606.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195810295.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195810295.jpg)
 
 
 旅馆门口的那个地铁站，有个站务员对着出站的人一直在说“阿里嘎多过匝一马斯”，语速很快而且不停下来，跟机器人一样，有趣又奇怪
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190541151.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190541151.jpg)
 
 
 
@@ -408,11 +408,11 @@ JR不是普通的地铁站，不能用大阪周游券，需要用之前买好的
 一个房间里就一张大床，浴室和洗漱都是在楼下的公共区域。还有公共洗衣机和一排长桌子和插座可以办公，而且真的有人在那边用笔记本工作。洗衣机一直都有人在用，最后我也没用上。
 
 有很多外国人，晚上他们在楼下围在大桌子旁玩桌游，说的话应该是俄语。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190415525.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190415525.jpg)
 
 
 看看在日本桥的买的东西(绿色健康版)
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221190402281.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221190402281.jpg)
 
 其实我对大阪根本没有预期，之前搜攻略的时候大家都说大阪无聊，玩一天下来感觉只有四天王寺是真无聊，太小了。寺庙的风格都是红的白的，在我这种不太懂的人看来都差不多，而且后面去的清水寺和浅草寺肯定更好玩。
 

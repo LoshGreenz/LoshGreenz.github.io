@@ -21,36 +21,36 @@ tags:
 ![](https://img.loshgreenz.cn/picgo/20251221194945721.jpg)
 
 喝口洗脚水，出发啦！
-![Screenshot](https://assets-proxy.2741399140.workers.dev/picgo/20251220184811588.jpg
+![Screenshot](https://img.loshgreenz.cn/picgo/20251220184811588.jpg
 )
 
 
 
 在便利店买了一个梅子饭团，又酸又咸，比较奇怪，但是合我的口味。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195006914.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195006914.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195020376.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195020376.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195218235.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195218235.jpg)
 
 
 道路两边没有高楼大厦，颜色也很克制，总给人一种小县城的感觉。但是建筑都很有“**设计感**”，一种和而不同的感觉，每个小房子似乎都有自己独特的设计思路。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195028529.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195028529.jpg)
 
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195041595.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195041595.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195204355.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195204355.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195113914.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195113914.jpg)
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195219454.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195219454.jpg)
 
 公园旁的小神龛
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195248057.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195248057.jpg)
 
 
 路过一个叫“六波罗蜜寺”的地方
@@ -58,29 +58,29 @@ tags:
 “波罗蜜”的意思是  ~~菠萝吹雪的大招菠萝蜜多斩~~  
 佛教用语“到达彼岸”
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221195425441.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221195425441.jpg)
 
 
 
 
 #### 八坂塔&清水寺
 接着向前走就是知名打卡点**八坂塔**和**二三年坂**了，果然没白早起，游客很少。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221202228953.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221202228953.jpg)
 
 
 稍有些阴沉的天气，两旁紧闭的门扉，让通往清水寺的石板路显得更加幽静古朴了。游览体验应该比网上人挤人的情景要好。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221202608486.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221202608486.jpg)
 
 预言箱，有点新奇，抽一发玩玩，凭自觉投钱，然后打开箱子取纸条。
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221202345540.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221202345540.jpg)
 
 这是八坂塔，或者叫法观寺，是日本现存的最古老的五重塔，592年修建的。
 
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221202358156.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221202358156.jpg)
 
 
 路过八坂塔后就是二三年坂，经典的打卡点位了，有好多老外。（不对我也是老外）
-![](https://assets-proxy.2741399140.workers.dev/picgo/20251221203318791.jpg)
+![](https://img.loshgreenz.cn/picgo/20251221203318791.jpg)
 
 
 
@@ -124,7 +124,7 @@ tags:
 在稍微往前走一走就是主体部分本堂了，萦绕着僧人浑厚神秘的诵经声和悠扬嘈杂的蝉鸣声，很有“蝉”意
 
 <video
-  src="https://assets-proxy.2741399140.workers.dev/videos/VID_20250827_073851.mp4"
+  src="https://img.loshgreenz.cn/videos/VID_20250827_073851.mp4"
   controls
   preload="metadata"
   width="720">
