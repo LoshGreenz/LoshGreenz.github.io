@@ -134,7 +134,7 @@ tags:
 在稍微往前走一走就是主体部分本堂了，萦绕着僧人浑厚神秘的诵经声和悠扬嘈杂的蝉鸣声，很有“蝉”意
 
 <video
-  src="https://img.loshgreenz.cn/videos/VID_20250827_073851.mp4"
+  src="https://img.loshgreenz.cn/videos/temple.mp4"
   controls
   preload="metadata"
   width="720">
