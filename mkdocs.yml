@@ -40,6 +40,7 @@ nav:
 # 4. 【可选但推荐】添加一些插件来增强功能
 plugins:
   - search  # 启用搜索功能，Material主题默认自带，写上更保险
+  - glightbox
   - document-dates:
       show_author: false
 

@@ -271,9 +271,15 @@ tags:
 
 
 夏天，虫鸣，烈日，遮阳帽，捕虫网，大人带着孩子捉虫子。要素过于齐全了，很适合作为塑造快乐童年生活的桥段
+
 孩子小心翼翼地靠近树，然后用力一挥网，耳畔最响亮的虫鸣声突然就消失了，看样子抓到的成果应该很不错
 
-
+<video
+  src="https://img.loshgreenz.cn/videos/child.mp4"
+  controls
+  preload="metadata"
+  width="720">
+</video>
 
 回到川崎站了，完全就是一个大商场的样子
 
