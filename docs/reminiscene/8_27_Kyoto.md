@@ -305,7 +305,7 @@ tags:
 可惜没有提前练习《相遇天使》，不然会很有纪念意义的，只能看上面的谱子简单弹两下。既要手脚并用，还要一只手拿着手机拍一边看谱子，简单弹一点点意思意思吧哈哈
 
 <video
-  src="https://img.loshgreenz.cn/videos/piano_h264.mp4"
+  src="https://img.loshgreenz.cn/videos/piano.mp4"
   controls
   preload="metadata"
   width="720">
