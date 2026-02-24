@@ -181,7 +181,7 @@ GIGO大楼居然刚好昨天关门，好像之前会挂原神的广告牌
 
 
 <video
-  src="https://img.loshgreenz.cn/videos/qilixiang_mov.mp4"
+  src="https://img.loshgreenz.cn/videos/qilixiang.mp4"
   controls
   preload="metadata"
   width="720">
