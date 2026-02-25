@@ -78,7 +78,12 @@ tags:
 
 我们俩都在这个石头上跳了一遍，还拍了张照片，是现在的微信头像
 
-
+<video
+  src="https://img.loshgreenz.cn/videos/stone.mp4"
+  controls
+  preload="metadata"
+  width="720">
+</video>
 
 
 阳光下，波光粼粼的河水从憨态可掬的乌龟石头中间缓缓流过，湛蓝辽阔的天空上飘着几朵白云
