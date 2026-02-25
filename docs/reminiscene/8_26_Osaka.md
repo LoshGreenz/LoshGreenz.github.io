@@ -77,7 +77,7 @@ tags:
 ![](https://img.loshgreenz.cn/picgo/20251221050800563.jpg)
 
 路过了一处墓地，和住宅区紧紧靠在一起，日本人对于墓地是不避讳的
-按照神道的生死观，人死后会变成保佑家庭的守护神
+按照神道教的生死观，人死后会变成保佑家庭的守护神
 
 ![](https://img.loshgreenz.cn/picgo/20251221050809000.jpg)
 
@@ -367,6 +367,13 @@ JR不是普通的地铁站，不能用大阪周游券，需要用之前买好的
 ![](https://img.loshgreenz.cn/picgo/20251221184633086.jpg)
 
 摩天轮算是玩得最开心的项目了，之前在国内好像都没坐过。这个摩天轮最好玩的是可以连蓝牙放音乐，于是我们放了柯南的主题曲，还有plastic love 和真夜中のドア。音乐一响，氛围感立刻就有了，俯瞰大阪繁华的夜景，真有身处繁华大都市的感觉！
+
+<video
+  src="https://img.loshgreenz.cn/videos/wheel.mp4"
+  controls
+  preload="metadata"
+  width="720">
+</video>
 
 ![](https://img.loshgreenz.cn/picgo/20251221194834081.jpg)
 
