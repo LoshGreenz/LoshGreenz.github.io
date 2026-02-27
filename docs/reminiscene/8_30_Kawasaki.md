@@ -140,10 +140,14 @@ tags:
 
 ![](https://img.loshgreenz.cn/picgo/20260225231255747.jpg)
 
+![](https://img.loshgreenz.cn/picgo/20260227202349730.png)
+
 现实中的“Shelter”live house 对应动漫中的“Starry”
 
 ![](https://img.loshgreenz.cn/picgo/20260225231255748.jpg)
 
+
+![](https://img.loshgreenz.cn/picgo/20260227202349729.png)
 
 下北泽的街道很窄小，完全没有大都市的样子，虽说这里也属于东京
 
