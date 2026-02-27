@@ -401,9 +401,16 @@ gbc的赞助商岛村乐器，可以看到照片里有之前去上海玩也见�
 
 到楼下，还有一位吉他手在川崎水族馆前面表演，弹得很厉害唱得也很好听
 
-可惜因为之后手机内存不足，只能忍痛把视频删了
 
 ![](https://img.loshgreenz.cn/picgo/20260225231255803.jpg)
+
+
+<video
+  src="https://img.loshgreenz.cn/videos/street_guitar.mp4"
+  controls
+  preload="metadata"
+  width="720">
+</video>
 
 
 #### 卡拉OK

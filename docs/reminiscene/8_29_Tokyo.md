@@ -685,6 +685,15 @@ Co-op Shop东大校园超市，就和很多大学的校园超市一样，卖些�
 
 夜晚的东京和白天的秩序井然完全不同，也有可能是这里是歌舞伎町附近吧，11点半了还灯红酒绿，人山人海
 
+甚至这时候还有街头表演，完全不像深夜11点半的样子
+
+<video
+  src="https://img.loshgreenz.cn/videos/street.mp4"
+  controls
+  preload="metadata"
+  width="720">
+</video>
+
 
 歌舞伎町的樱花通
 ![](https://img.loshgreenz.cn/picgo/20260225230916632.jpg)
