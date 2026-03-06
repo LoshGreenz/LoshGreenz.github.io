@@ -16,6 +16,13 @@
   background: linear-gradient(90deg, #fc92a6 50%, #e5f39f);
 }
 
+/* 新增：让导航标签（tabs）也使用相同的渐变背景 */
+.md-tabs {
+  background: linear-gradient(90deg, #fc92a6 50%, #e5f39f);
+  color: var(--md-primary-bg-color);
+  /* 确保文字可见，可根据需要调整颜色 */
+}
+
 /* 正文文本颜色保持黑色，确保可读性 */
 .md-typeset {
   color: #333333;

@@ -11,6 +11,8 @@ theme:
   favicon: image/favicon.ico
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.indexes
 
 extra_css:
   - stylesheets/extra.css
@@ -19,18 +21,20 @@ extra_css:
 nav:
   - 主页: index.md  
   - 日本旅行: 
-      - 记录篇: 
-          - 去日本的路上: reminiscene/8_25_Flight.md
-          - 大阪: reminiscene/8_26_Osaka.md
-          - 京都: reminiscene/8_27_Kyoto.md
-          - 奈良&宇治: reminiscene/8_28_Nara.md
-          - 东京: reminiscene/8_29_Tokyo.md
-          - 东京&川崎: reminiscene/8_30_Kawasaki.md 
-          - 箱根&江之岛: reminiscene/8_31_Hakone.md 
-          - 名古屋: reminiscene/9_1_Nagoya.md  
-      - 攻略篇: strategy.md        
-  
+      - 记录篇:
+          - 去日本的路上: japan/reminiscene/8_25_Flight.md
+          - 大阪: japan/reminiscene/8_26_Osaka.md
+          - 京都: japan/reminiscene/8_27_Kyoto.md
+          - 奈良&宇治: japan/reminiscene/8_28_Nara.md
+          - 东京: japan/reminiscene/8_29_Tokyo.md
+          - 东京&川崎: japan/reminiscene/8_30_Kawasaki.md 
+          - 箱根&江之岛: japan/reminiscene/8_31_Hakone.md 
+          - 名古屋: japan/reminiscene/9_1_Nagoya.md  
+      - 攻略篇: strategy.md      
+  - 技术: tech.md
+  - 生活: life.md
   - 关于我: about.md  
+  
 
 plugins:
   - search  
